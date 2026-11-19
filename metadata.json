@@ -1,0 +1,6 @@
+{
+  "name": "Apex Velocity",
+  "description": "High-speed 3D highway racing game with selectable supercars, dynamic track atmospheres, nitro boost, and traffic dodging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
